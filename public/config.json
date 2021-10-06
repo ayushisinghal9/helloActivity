@@ -26,7 +26,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "95d5cc86-8a12-4027-88cd-b2f55dc2be9b",
+      "applicationExtensionKey": "3b16ba99-fb67-4167-ad6f-5258798a2d87",
       "save": {
         "url": "https://sms-ayushi.herokuapp.com/journeybuilder/save",
           "verb": "POST",
